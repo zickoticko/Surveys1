@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "441041426832",
+    "firebase_url": "https://encuestas-2df70.firebaseio.com",
+    "project_id": "encuestas-2df70",
+    "storage_bucket": "encuestas-2df70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441041426832:android:7d15514b6a143b84",
+        "android_client_info": {
+          "package_name": "zickinc.thing.surveys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441041426832-ntb27389opp8ubq5ur7etlu95nuf8j16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zickinc.thing.surveys",
+            "certificate_hash": "D7CE88124D5C77DACB2AA379384CF5A26E8F344B"
+          }
+        },
+        {
+          "client_id": "441041426832-lrag4nj561cr8tt5l8j45ncba60ltnur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv6sn1iVCe0q4ONOPZAoBK04AE8Kem5LM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441041426832-lrag4nj561cr8tt5l8j45ncba60ltnur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
